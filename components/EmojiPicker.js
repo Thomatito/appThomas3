@@ -14,6 +14,7 @@ export default function EmojiPicker({ isVisible, children, onClose }) {
         {children}
       </View>
     </Modal>
+    
   );
 }
 
